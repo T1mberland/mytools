@@ -17,11 +17,13 @@
 ## OS Specific
 ### Windows
 #### PowerToys
+
 ```
 winget install --id Microsoft.PowerToys --source winget
 ``
 
 ## Install all!
+
 - For Windows:
 ```
 winget install sharkdp.fd BurntSushi.ripgrep.MSVC sharkdp.bat Broot Neovim
