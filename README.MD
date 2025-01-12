@@ -20,7 +20,7 @@
 
 ```
 winget install --id Microsoft.PowerToys --source winget
-``
+```
 
 ## Install all!
 
