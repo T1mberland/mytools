@@ -14,6 +14,8 @@
 
 #### [Broot (file explorer)]()
 
+#### [Zoxide (cd)](https://github.com/ajeetdsouza/zoxide)
+
 ## OS Specific
 ### Windows
 #### PowerToys
@@ -26,6 +28,6 @@ winget install --id Microsoft.PowerToys --source winget
 
 - For Windows:
 ```
-winget install sharkdp.fd BurntSushi.ripgrep.MSVC sharkdp.bat Broot Neovim
+winget install sharkdp.fd BurntSushi.ripgrep.MSVC sharkdp.bat Broot Neovim ajeetdsouza.zoxide
 ```
 
